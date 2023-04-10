@@ -1,4 +1,4 @@
-### Olá!! Sou Caroline Voleck!
+### Olá!! Meu nome é Caroline Voleck!
 [![social](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cvoleck/)
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-voleck-b8b4a7108/)
 
